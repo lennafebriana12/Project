@@ -12,3 +12,4 @@ public class Mawar implements Shape {
         return  "Putih";
     }
 }
+

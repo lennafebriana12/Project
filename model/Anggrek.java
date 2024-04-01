@@ -12,3 +12,4 @@ public class Anggrek implements Shape {
         return "Red";
     }
 }
+

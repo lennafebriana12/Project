@@ -8,6 +8,8 @@ import model.Shape;
 import model.ShapeType;
 import model.Melati;
 
+/*12S22017_Lenna Febriana */
+
 public class TumbuhanDriver {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
